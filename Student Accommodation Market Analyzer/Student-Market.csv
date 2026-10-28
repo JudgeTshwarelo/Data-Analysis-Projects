@@ -1,0 +1,4 @@
+Residence,Price,DistanceFromCampus,RoomsAvailable,Wifi,Security
+Res1,3500,0.5,10,Yes,Yes
+Res2,2800,1.2,5,No,Yes
+Res3,4200,0.3,3,Yes,Yes
